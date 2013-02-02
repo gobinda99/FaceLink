@@ -2,6 +2,14 @@
 
 # Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
 
+
+#Ignore unwanted files
+doc/
+*.swp
+*~
+.idea
+.DS_Store
+.project
 profile/
 temp/
 album/
