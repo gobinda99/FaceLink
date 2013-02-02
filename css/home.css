@@ -1,0 +1,98 @@
+#home{
+    width: 100%;
+    margin: 20px 0 0;
+    padding: 0 0 30px;
+    text-align: center;
+    background: url(../images/bg-main.png) repeat-x left bottom;
+}
+#home .wrap{
+    width:1024px;
+    margin:auto;
+    
+}
+
+div#l{
+    width:180px;
+    margin:20px 0;
+    float:left;
+    border-right: 1px solid;
+    min-height: 570px;
+
+
+    
+}
+
+div#r{
+    float: right;
+    width:200px;
+    margin:20px 0;
+    border-left: 1px solid;
+    min-height: 570px;
+}
+
+#r td{
+    text-align:left;
+}
+
+div#wall_container{
+    width:550px;
+    padding: 0px 160px 0px 210px;
+    margin: 20px 0;
+    
+}
+
+
+#l .profile_pic{
+    border:3px solid;
+    width:140px;
+    height:150px;
+    margin:auto;
+    
+}
+
+#l .profile_name{
+    padding:10px ;
+    text-align:center;
+    font-size: 16px;
+    text-transform:capitalize;
+    color:#006699;
+}
+
+.link .home_img{
+    margin-top: 5px;
+}
+
+div#prof{
+    width:550px;
+    padding: 0px 160px 0px 210px;
+    margin: 20px 0;
+    min-height:570px;
+}
+
+#prof td{
+    text-align:left;
+}
+
+.e_p{
+    float:right;
+    padding:5px 20px 10px 20px ;
+}
+
+
+div#p_message{
+width:550px;
+    padding: 0px 160px 0px 210px;
+    margin: 20px 0;
+}
+
+#p_message td{
+    text-align: left;
+}
+
+div#photo{
+   width:550px;
+    padding: 0px 160px 0px 210px;
+    margin: 20px 0;
+    min-height: 700px;
+}
+
