@@ -1,6 +1,4 @@
-
  <?php
- //Srinivas Tamada http://9lessons.info
 //Load latest comment 
 error_reporting(0);
 include_once 'includes/db.php';
