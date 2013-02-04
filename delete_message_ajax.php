@@ -1,5 +1,4 @@
  <?php
- //Srinivas Tamada http://9lessons.info
 //Load latest update 
 error_reporting(0);
 include_once 'includes/db.php';
