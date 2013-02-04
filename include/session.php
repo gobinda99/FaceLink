@@ -1,13 +1,5 @@
 <?php
-/**
- * Session.php
- * 
- * The Session class is meant to simplify the task of keeping
- * track of logged in users and also guests.
- *
- * Written by: Jpmaster77 a.k.a. The Grandmaster of C++ (GMC)
- * Last Updated: August 19, 2004
- */
+
 include("database.php");
 include("mailer.php");
 include("form.php");
