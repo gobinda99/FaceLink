@@ -1,14 +1,5 @@
 <?php 
-/**
- * Form.php
- *
- * The Form class is meant to simplify the task of keeping
- * track of errors in user submitted forms and the form
- * field values that were entered correctly.
- *
- * Written by: Jpmaster77 a.k.a. The Grandmaster of C++ (GMC)
- * Last Updated: August 19, 2004
- */
+
  
 class Form
 {
