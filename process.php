@@ -1,15 +1,5 @@
 <?php
-/**
- * Process.php
- * 
- * The Process class is meant to simplify the task of processing
- * user submitted forms, redirecting the user to the correct
- * pages if errors are found, or if form is successful, either
- * way. Also handles the logout procedure.
- *
- * Written by: Jpmaster77 a.k.a. The Grandmaster of C++ (GMC)
- * Last Updated: August 19, 2004
- */
+
 include("include/session.php");
 
 class Process
