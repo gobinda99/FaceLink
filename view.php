@@ -1,17 +1,5 @@
-?php
-/**
- * index.php
- *
- *Facelink home page with registration and login form
- *
- * Written by: Monideep a.k.a. deep The Grandmaster of PHP
- *
- */
-
-
+<?php
 include_once 'include/session.php';
-
-
 ?>
 
 
